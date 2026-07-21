@@ -1,10 +1,10 @@
 import { useState } from "react";
 import "./App.css";
 
-import Dashboard from "./components/Dashboard";
-import Users from "./components/Users";
-import Reports from "./components/Reports";
-import StatsCards from "./components/StatsCards";
+import Dashboard from "./Components/Dashboard";
+import Users from "./Components/Users";
+import Reports from "./Components/Reports";
+import StatsCards from "./Components/StatsCards";
 
 function App() {
   const [users, setUsers] =
